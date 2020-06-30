@@ -1,0 +1,20 @@
+{
+    "name": "MakeCodeLiveFiveFaders",
+    "description": "",
+    "dependencies": {
+        "adafruit-feather-m4-express": "*",
+        "mixer": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
